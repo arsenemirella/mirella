@@ -44,3 +44,16 @@ header {
     font-weight: 900;
     color: #4682b4; /* Steel blue shade */
 }
+div a {
+    background-color: DarkRed/* Your background color */;
+    padding: 20px;
+}
+
+a > h1 {
+    background-color: Indigo /* Your background color */;
+    color: white;
+}
+
+a + a {
+    background-color: antiquewhite; /* or your preferred shade of blue */
+}
