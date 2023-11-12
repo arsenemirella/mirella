@@ -12,3 +12,35 @@ h1 {
     background-color: beige;
     color: DarkKhaki;
 }
+body {
+    padding: 20px;
+}
+
+header {
+    background-color: rgb(8, 22, 110);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-bottom: 18px;
+}
+
+.content {
+    background: #afcbff; /* Light blue shade */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida';
+    padding: 10px;
+    margin-bottom: 18px;
+}
+
+.footer {
+    background: #215d88; /* Dark blue shade */
+    color: white;
+    padding: 10px;
+}
+
+.bold {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #4682b4; /* Steel blue shade */
+}
